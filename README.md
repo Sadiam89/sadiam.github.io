@@ -1,2 +1,2 @@
 # sadiam.github.io
-<img src="gatito.gif" width="300">
+<img src="gatito.gif.gif" width="300">
